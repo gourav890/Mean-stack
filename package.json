@@ -1,0 +1,27 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Mean stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourav890/Mean-stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK"
+  ],
+  "author": "Gourav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gourav890/Mean-stack/issues"
+  },
+  "homepage": "https://github.com/gourav890/Mean-stack#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
